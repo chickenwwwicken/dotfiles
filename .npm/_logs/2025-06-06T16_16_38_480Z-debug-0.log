@@ -1,0 +1,17 @@
+0 verbose cli /usr/bin/node /usr/bin/npm
+1 info using npm@11.4.1
+2 info using node@v24.1.0
+3 silly config load:file:/usr/lib/node_modules/npm/npmrc
+4 silly config load:file:/home/chicken/.npmrc
+5 silly config load:file:/etc/npmrc
+6 verbose title npm version
+7 verbose argv "version" "--json"
+8 verbose logfile logs-max:10 dir:/home/chicken/.npm/_logs/2025-06-06T16_16_38_480Z-
+9 verbose logfile /home/chicken/.npm/_logs/2025-06-06T16_16_38_480Z-debug-0.log
+10 silly logfile done cleaning log files
+11 verbose cwd /home/chicken
+12 verbose os Linux 6.14.9-arch1-1
+13 verbose node v24.1.0
+14 verbose npm  v11.4.1
+15 verbose exit 0
+16 info ok

@@ -1,0 +1,243 @@
+{
+  "main": {
+    "id": "803ea1a860a6e7a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c93af4987bc74c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5e806fc94e3165b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.proyects/bootdev/4py/12_Hashmaps/12.3_insert.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "12.3_insert"
+            }
+          },
+          {
+            "id": "cf2fed2b9b529469",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.areas/homesys/archlinux/dotfiles.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "dotfiles"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "999be2e31386a6fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5b3b14a1f620968",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "194c0dfb3ac9f109",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabeticalReverse",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e253e20dd364349e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "bfc5d4f805620c02",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "ac5a5267332cb556",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a5ee0ccd6fa2bfb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "341781ad48db7af4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "bdb4b3cc46778c2c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "c371edef8330371a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5ea6debef6cdedb7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "cf2fed2b9b529469",
+  "lastOpenFiles": [
+    "1.proyects/bootdev/1project-bookbot/1_Welcome.md~",
+    "3.resources/oss/arch/maintenance/4913",
+    "1.proyects/bootdev/1project-bookbot-2.0/2.workspace.md~",
+    "2.areas/homesys/archlinux/dotfiles.md~",
+    "3.resources/runs/dotfiles-symlinks",
+    "1.proyects/bootdev/1project-bookbot-2.0/5.first-commit.md",
+    "2.areas/homesys/archlinux/dotfiles.md",
+    "2.areas/homesys/archlinux",
+    "2.areas/homesys/Untitled.md",
+    "1.proyects/bootdev/1project-bookbot-2.0/5.first-commit.md~",
+    "1.proyects/bootdev/1project-bookbot/1_Welcome.md",
+    "1.proyects/bootdev/1project-bookbot-2.0/4.readme.md~",
+    "1.proyects/bootdev/1project-bookbot-2.0/4.readme.md",
+    "1.proyects/bootdev/1project-bookbot-2.0/3.git-clone.md~",
+    "1.proyects/bootdev/1project-bookbot-2.0/3.git-clone.md",
+    "1.proyects/bootdev/1project-bookbot-2.0/2.workspace.md",
+    "1.proyects/bootdev/1project-bookbot-2.0/workspace.md~",
+    "1.proyects/bootdev/1project-bookbot-2.0/workspace.md",
+    "1.proyects/bootdev/1project-bookbot-2.0/1.welcome.md~",
+    "1.proyects/bootdev/1project-bookbot-2.0/1.welcome.md",
+    "1.proyects/bootdev/1project-bookbot/0_BookBot.md",
+    "1.proyects/bootdev/linux/5_io/5.4_help.md",
+    "1.proyects/bootdev/4py/16_P-vs-NP/16.9_np-hard.md",
+    "1.proyects/bootdev/linux/6_Packages/NEOVIM.md",
+    "1.proyects/bootdev/linux/6_Packages/5.4_Webi.md",
+    "1.proyects/bootdev/linux/6_Packages/5.3_Review.md",
+    "1.proyects/bootdev/linux/6_Packages/5.2_Using_Neovim.md",
+    "1.proyects/bootdev/linux/6_Packages/5.1_Package_Managers.md",
+    "1.proyects/bootdev/linux/5_io/5.9_piping.md",
+    "1.proyects/bootdev/linux/5_io/5.8_stdin.md",
+    "1.proyects/bootdev/linux/5_io/5.7_stderr.md",
+    "1.proyects/bootdev/linux/5_io/5.6_stdout.md",
+    "1.proyects/bootdev/linux/5_io/5.5_exit-codes.md",
+    "1.proyects/bootdev/linux/5_io/5.3_positional-args.md",
+    "1.proyects/bootdev/linux/5_io/5.2_flags.md",
+    "1.proyects/bootdev/linux/5_io/5.1_man.md",
+    "1.proyects/bootdev/linux/0_Resources/0.2_Canvas.canvas",
+    "3/linux/0_Resources/0.2_Canvas.canvas",
+    "3/0_resources/media/Pasted image 20240912140009.png",
+    "3/0_resources/media/Pasted image 20240911143857.png",
+    "3/0_resources/media/Pasted image 20240910133354.png",
+    "3/0_resources/media/Pasted image 20240910121343.png",
+    "3/0_resources/media/Pasted image 20240910120357.png",
+    "3/0_resources/media/Pasted image 20240910115047.png",
+    "3/0_resources/media/Pasted image 20240906124446.png",
+    "3/0_resources/media/Pasted image 20240906122643.png",
+    "3/0_resources/media/Pasted image 20240905152730.png",
+    "3/0_resources/media/Pasted image 20240905152603.png",
+    "3/0_resources/0.0_map.canvas",
+    "2.areas/bitcoin/archive/S0F7F0RK/SHROOMS.canvas",
+    "2.areas/bitcoin/archive/S0F7F0RK/777shadercodes.canvas",
+    "2.areas/bitcoin/archive/S0F7F0RK/777.canvas",
+    "2.areas/bitcoin/archive/BiTCOiN L2s/L2 MAP.canvas",
+    "Untitled.canvas",
+    "4.archive/mayacalendarlol/timeline/9-chen.canvas",
+    "4.archive/mayacalendarlol/timeline/8-mol.canvas"
+  ]
+}
