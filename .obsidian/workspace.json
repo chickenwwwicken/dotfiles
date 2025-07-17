@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.proyects/bootdev/4py/12_Hashmaps/12.3_insert.md",
+                "file": "1.proyects/bootdev/1project-bookbot-2.0/2.workspace.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12.3_insert"
+              "title": "2.workspace"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.areas/homesys/archlinux/dotfiles.md",
+                "file": "1.proyects/emopop/$emo-index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dotfiles"
+              "title": "$emo-index"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 273.5
   },
   "right": {
     "id": "ac5a5267332cb556",
@@ -181,44 +180,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf2fed2b9b529469",
+  "active": "f5e806fc94e3165b",
   "lastOpenFiles": [
-    "1.proyects/bootdev/1project-bookbot/1_Welcome.md~",
-    "3.resources/oss/arch/maintenance/4913",
-    "1.proyects/bootdev/1project-bookbot-2.0/2.workspace.md~",
-    "2.areas/homesys/archlinux/dotfiles.md~",
-    "3.resources/runs/dotfiles-symlinks",
-    "1.proyects/bootdev/1project-bookbot-2.0/5.first-commit.md",
-    "2.areas/homesys/archlinux/dotfiles.md",
-    "2.areas/homesys/archlinux",
-    "2.areas/homesys/Untitled.md",
-    "1.proyects/bootdev/1project-bookbot-2.0/5.first-commit.md~",
-    "1.proyects/bootdev/1project-bookbot/1_Welcome.md",
-    "1.proyects/bootdev/1project-bookbot-2.0/4.readme.md~",
-    "1.proyects/bootdev/1project-bookbot-2.0/4.readme.md",
-    "1.proyects/bootdev/1project-bookbot-2.0/3.git-clone.md~",
-    "1.proyects/bootdev/1project-bookbot-2.0/3.git-clone.md",
-    "1.proyects/bootdev/1project-bookbot-2.0/2.workspace.md",
-    "1.proyects/bootdev/1project-bookbot-2.0/workspace.md~",
-    "1.proyects/bootdev/1project-bookbot-2.0/workspace.md",
-    "1.proyects/bootdev/1project-bookbot-2.0/1.welcome.md~",
+    "1.proyects/bootdev/3agent/4.agents/3.submit.md",
+    "1.proyects/bootdev/3agent/4.agents/2.update-code.md",
+    "1.proyects/bootdev/3agent/4.agents/1.agents.md",
+    "1.proyects/bootdev/3agent/3.function-calling/4.calling.md",
+    "1.proyects/bootdev/3agent/3.function-calling/3.more-declarations.md",
+    "1.proyects/bootdev/3agent/3.function-calling/2.function-declaration.md",
+    "1.proyects/bootdev/3agent/3.function-calling/1.system-prompt.md",
+    "1.proyects/bootdev/3agent/2.functions/5.run-python.md",
+    "1.proyects/bootdev/3agent/2.functions/4.write-file.md",
+    "1.proyects/bootdev/3agent/2.functions/3.get-file-content.md",
+    "1.proyects/bootdev/3agent/2.functions/2.get-files.md",
+    "1.proyects/bootdev/3agent/2.functions/1.calculator.md",
+    "1.proyects/bootdev/3agent/1.llms/6.verbose.md",
+    "1.proyects/bootdev/3agent/1.llms/5.messages.md",
+    "1.proyects/bootdev/3agent/1.llms/4.input.md",
+    "1.proyects/bootdev/3agent/1.llms/3.gemini.md",
+    "1.proyects/bootdev/3agent/1.llms/1.build-ai-agent.md",
+    "1.proyects/bootdev/3agent/1.llms/2.python-setup.md",
     "1.proyects/bootdev/1project-bookbot-2.0/1.welcome.md",
-    "1.proyects/bootdev/1project-bookbot/0_BookBot.md",
-    "1.proyects/bootdev/linux/5_io/5.4_help.md",
-    "1.proyects/bootdev/4py/16_P-vs-NP/16.9_np-hard.md",
-    "1.proyects/bootdev/linux/6_Packages/NEOVIM.md",
-    "1.proyects/bootdev/linux/6_Packages/5.4_Webi.md",
-    "1.proyects/bootdev/linux/6_Packages/5.3_Review.md",
-    "1.proyects/bootdev/linux/6_Packages/5.2_Using_Neovim.md",
-    "1.proyects/bootdev/linux/6_Packages/5.1_Package_Managers.md",
-    "1.proyects/bootdev/linux/5_io/5.9_piping.md",
-    "1.proyects/bootdev/linux/5_io/5.8_stdin.md",
-    "1.proyects/bootdev/linux/5_io/5.7_stderr.md",
-    "1.proyects/bootdev/linux/5_io/5.6_stdout.md",
-    "1.proyects/bootdev/linux/5_io/5.5_exit-codes.md",
-    "1.proyects/bootdev/linux/5_io/5.3_positional-args.md",
-    "1.proyects/bootdev/linux/5_io/5.2_flags.md",
-    "1.proyects/bootdev/linux/5_io/5.1_man.md",
+    "1.proyects/bootdev/3agent/4.agents/1.agens.md",
+    "1.proyects/bootdev/3agent/1.llms/input.md",
+    "1.proyects/bootdev/3agent/1.llms/1.build-ai-agent.md 2.python-setup.md 3.gemini.md",
+    "1.proyects/bootdev/3agent/1.llms/Untitled.md",
+    "1.proyects/bootdev/3agent/4.agents",
+    "1.proyects/bootdev/3agent/3.function-calling",
+    "1.proyects/bootdev/3agent/2.functions",
+    "1.proyects/bootdev/3agent/1.llms",
+    "1.proyects/bootdev/3agent/media",
+    "1.proyects/bootdev/1project-bookbot-2.0/2.workspace.md",
+    "1.proyects/bootdev/1project-bookbot-2.0/3.git-clone.md",
+    "1.proyects/bootdev/1project-bookbot-2.0/4.readme.md",
+    "1.proyects/bootdev/1project-bookbot-2.0/9.read-file.md~",
+    "1.proyects/bootdev/1project-bookbot-2.0/8.book-data.md~",
+    "1.proyects/bootdev/1project-bookbot-2.0/7.running-python.md~",
+    "1.proyects/bootdev/1project-bookbot-2.0/15.submit.md~",
+    "1.proyects/bootdev/1project-bookbot-2.0/14.arguments.md~",
+    "1.proyects/emopop/popboard.canvas",
+    "1.proyects/emopop/popboard 1.canvas",
     "1.proyects/bootdev/linux/0_Resources/0.2_Canvas.canvas",
     "3/linux/0_Resources/0.2_Canvas.canvas",
     "3/0_resources/media/Pasted image 20240912140009.png",
@@ -236,8 +237,6 @@
     "2.areas/bitcoin/archive/S0F7F0RK/777shadercodes.canvas",
     "2.areas/bitcoin/archive/S0F7F0RK/777.canvas",
     "2.areas/bitcoin/archive/BiTCOiN L2s/L2 MAP.canvas",
-    "Untitled.canvas",
-    "4.archive/mayacalendarlol/timeline/9-chen.canvas",
-    "4.archive/mayacalendarlol/timeline/8-mol.canvas"
+    "Untitled.canvas"
   ]
 }

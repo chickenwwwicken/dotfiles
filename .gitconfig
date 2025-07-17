@@ -7,3 +7,7 @@
 [user]
 	email = chickenwwwicken@gmail.com
 	name = chickenwwwicken
+[init]
+	defaultBranch = main
+[fetch]
+	prune = true

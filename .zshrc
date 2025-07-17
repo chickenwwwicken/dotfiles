@@ -118,6 +118,7 @@ alias gym="git commit -m"
 alias gis="git status"
 alias gad="git add"
 alias gpo="git push origin"
+alias py="python3"
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
@@ -133,3 +134,4 @@ function y() {
 	[ -n "$cwd" ] && [ "$cwd" != "$PWD" ] && builtin cd -- "$cwd"
 	rm -f -- "$tmp"
 }
+export PATH=$PATH:$HOME/go/bin
