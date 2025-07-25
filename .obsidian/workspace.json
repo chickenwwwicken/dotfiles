@@ -11,14 +11,17 @@
             "id": "f5e806fc94e3165b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "1.proyects/bootdev/1project-bookbot-2.0/2.workspace.md",
-                "mode": "source",
-                "source": false
+                "file": "1.proyects/kmrd/jersey-moodboard.canvas",
+                "viewState": {
+                  "x": -292.66712370788304,
+                  "y": 1878.6237154852824,
+                  "zoom": 1
+                }
               },
-              "icon": "lucide-file",
-              "title": "2.workspace"
+              "icon": "lucide-layout-dashboard",
+              "title": "jersey-moodboard"
             }
           },
           {
@@ -92,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 273.5,
+    "collapsed": true
   },
   "right": {
     "id": "ac5a5267332cb556",
@@ -182,6 +186,34 @@
   },
   "active": "f5e806fc94e3165b",
   "lastOpenFiles": [
+    "1.proyects/kmrd/media/soma.webp",
+    "1.proyects/kmrd/media/Unconfirmed 499639.crdownload",
+    "1.proyects/kmrd/media/2025-07-23-191035_hyprshot.png",
+    "1.proyects/kmrd/media/2025-07-23-191042_hyprshot.png",
+    "1.proyects/kmrd/media/2025-07-23-191103_hyprshot.png",
+    "1.proyects/kmrd/media/2025-07-23-191112_hyprshot.png",
+    "1.proyects/kmrd/media/2025-07-23-191144_hyprshot.png",
+    "1.proyects/kmrd/media/2025-07-23-191154_hyprshot.png",
+    "1.proyects/kmrd/media/2025-07-23-191204_hyprshot.png",
+    "1.proyects/kmrd/media/2025-07-23-191211_hyprshot.png",
+    "1.proyects/kmrd/media/2025-07-23-191221_hyprshot.png",
+    "1.proyects/kmrd/media/2025-07-23-191232_hyprshot.png",
+    "1.proyects/kmrd/jersey-moodboard.canvas",
+    "3.resources/inkscape/stroke-to-path-bug.md~",
+    "3.resources/inkscape/stroke-to-path-bug.md",
+    "3.resources/inkscape/turn-images-into-vector-colored-obj.md~",
+    "3.resources/inkscape/turn-images-into-vector-colored-obj.md",
+    "1.proyects/kmrd/media/Unconfirmed 101233.crdownload",
+    "1.proyects/kmrd/media/Unconfirmed 727436.crdownload",
+    "1.proyects/kmrd/media/Unconfirmed 161061.crdownload",
+    "1.proyects/kmrd/media/Unconfirmed 563622.crdownload",
+    "1.proyects/kmrd/media/Unconfirmed 855311.crdownload",
+    "1.proyects/kmrd/media/Unconfirmed 95739.crdownload",
+    "1.proyects/kmrd/media/Unconfirmed 753274.crdownload",
+    "1.proyects/bootdev/learn-linux/1_Terminals&Shells/1.5_What_is_Shell.md",
+    "$$$/$cheats/$oss/$linux/1_linux-journey/3_text-fu/3.1_stdout.md",
+    "$$$/$cheats/$oss/$linux/1_linux-journey/5_usr-management/5.4_etc-shadow.md",
+    "1.proyects/bootdev/1project-bookbot-2.0/2.workspace.md",
     "1.proyects/bootdev/3agent/4.agents/3.submit.md",
     "1.proyects/bootdev/3agent/4.agents/2.update-code.md",
     "1.proyects/bootdev/3agent/4.agents/1.agents.md",
@@ -201,42 +233,14 @@
     "1.proyects/bootdev/3agent/1.llms/1.build-ai-agent.md",
     "1.proyects/bootdev/3agent/1.llms/2.python-setup.md",
     "1.proyects/bootdev/1project-bookbot-2.0/1.welcome.md",
-    "1.proyects/bootdev/3agent/4.agents/1.agens.md",
-    "1.proyects/bootdev/3agent/1.llms/input.md",
-    "1.proyects/bootdev/3agent/1.llms/1.build-ai-agent.md 2.python-setup.md 3.gemini.md",
-    "1.proyects/bootdev/3agent/1.llms/Untitled.md",
-    "1.proyects/bootdev/3agent/4.agents",
-    "1.proyects/bootdev/3agent/3.function-calling",
-    "1.proyects/bootdev/3agent/2.functions",
-    "1.proyects/bootdev/3agent/1.llms",
-    "1.proyects/bootdev/3agent/media",
-    "1.proyects/bootdev/1project-bookbot-2.0/2.workspace.md",
-    "1.proyects/bootdev/1project-bookbot-2.0/3.git-clone.md",
-    "1.proyects/bootdev/1project-bookbot-2.0/4.readme.md",
-    "1.proyects/bootdev/1project-bookbot-2.0/9.read-file.md~",
-    "1.proyects/bootdev/1project-bookbot-2.0/8.book-data.md~",
-    "1.proyects/bootdev/1project-bookbot-2.0/7.running-python.md~",
-    "1.proyects/bootdev/1project-bookbot-2.0/15.submit.md~",
-    "1.proyects/bootdev/1project-bookbot-2.0/14.arguments.md~",
     "1.proyects/emopop/popboard.canvas",
     "1.proyects/emopop/popboard 1.canvas",
     "1.proyects/bootdev/linux/0_Resources/0.2_Canvas.canvas",
     "3/linux/0_Resources/0.2_Canvas.canvas",
-    "3/0_resources/media/Pasted image 20240912140009.png",
-    "3/0_resources/media/Pasted image 20240911143857.png",
-    "3/0_resources/media/Pasted image 20240910133354.png",
-    "3/0_resources/media/Pasted image 20240910121343.png",
-    "3/0_resources/media/Pasted image 20240910120357.png",
-    "3/0_resources/media/Pasted image 20240910115047.png",
-    "3/0_resources/media/Pasted image 20240906124446.png",
-    "3/0_resources/media/Pasted image 20240906122643.png",
-    "3/0_resources/media/Pasted image 20240905152730.png",
-    "3/0_resources/media/Pasted image 20240905152603.png",
     "3/0_resources/0.0_map.canvas",
     "2.areas/bitcoin/archive/S0F7F0RK/SHROOMS.canvas",
     "2.areas/bitcoin/archive/S0F7F0RK/777shadercodes.canvas",
     "2.areas/bitcoin/archive/S0F7F0RK/777.canvas",
-    "2.areas/bitcoin/archive/BiTCOiN L2s/L2 MAP.canvas",
-    "Untitled.canvas"
+    "2.areas/bitcoin/archive/BiTCOiN L2s/L2 MAP.canvas"
   ]
 }
